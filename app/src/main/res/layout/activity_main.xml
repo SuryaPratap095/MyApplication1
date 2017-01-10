@@ -11,6 +11,7 @@
     tools:context="com.example.suryapratapsingh.myapplication.MainActivity">
 
     <TextView
+        android:id="@+id/Hellotxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="GDCodeTechno!" />
