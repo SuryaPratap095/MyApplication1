@@ -11,8 +11,8 @@
     tools:context="com.example.suryapratapsingh.myapplication.MainActivity">
 
     <TextView
-        android:id="@+id/Hellotxt"
+        android:id="@+id/HelloTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="GDCodeTechno!" />
+        android:text="Start of Website" />
 </RelativeLayout>
