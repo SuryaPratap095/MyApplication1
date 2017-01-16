@@ -17,11 +17,4 @@
         android:text="Start of Website" />
 
 
-    <TextView
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:id="@+id/secondTxt"
-        android:text="Hello  World"/>
-
-
 </RelativeLayout>
