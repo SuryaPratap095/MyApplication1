@@ -11,7 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         TextView textView=(TextView) findViewById(R.id.HelloTxt);
         textView.setAllCaps(true);
+
+
     }
 }
