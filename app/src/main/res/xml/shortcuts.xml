@@ -13,6 +13,8 @@
             android:targetClass="com.example.suryapratapsingh.myapplication.MainActivity"/>
         <categories android:name="android.shortcut.conversation"/>
 
+
+
     </shortcut>
 
 </shortcuts >
