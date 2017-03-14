@@ -5,6 +5,9 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    private TextView textView1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -12,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         TextView textView=(TextView) findViewById(R.id.HelloTxt);
         textView.setAllCaps(true);TextView textView1=(TextView) findViewById(R.id.HelloTxt);
         textView1.setAllCaps(true);
+
+
 
     }
 }
