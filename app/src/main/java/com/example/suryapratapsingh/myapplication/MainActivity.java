@@ -1,8 +1,8 @@
 package com.example.suryapratapsingh.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.widget.TextView;
+        import android.support.v7.app.AppCompatActivity;
+        import android.os.Bundle;
+        import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     private TextView textView1;
