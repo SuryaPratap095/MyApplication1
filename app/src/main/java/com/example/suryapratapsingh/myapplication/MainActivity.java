@@ -15,8 +15,5 @@ public class MainActivity extends AppCompatActivity {
         textView1.setAllCaps(true);
 
 
-
-
-
     }
 }
